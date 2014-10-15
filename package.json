@@ -1,14 +1,14 @@
 {
   "name": "coval3nt",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An open source front-end framework for hybrid apps using React and HTML5",
   "main": "index.js",
   "bin": {
-    "covalent": "index.js"
+    "coval3nt": "index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KiaFathi/covalent.git"
+    "url": "https://github.com/coval3nt/covl3nt.git"
   },
   "author": "Kia Fathi <kiafathi@me.com> (http://kiafathi.com/)",
   "license": "ISC",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/KiaFathi/covalent",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cordova": "^3.6.3-0.2.13"
   }
 }
